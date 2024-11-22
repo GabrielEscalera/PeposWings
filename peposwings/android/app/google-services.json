@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "410680540370",
+    "project_id": "pepo-s-wings-and-more",
+    "storage_bucket": "pepo-s-wings-and-more.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410680540370:android:7566bc5ad48c849ae9410b",
+        "android_client_info": {
+          "package_name": "com.example.peposwings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCnqbiVu2w3VDcq_qA1ggcLQMImGxVTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410680540370:android:1026b5d7ce8bc31ce9410b",
+        "android_client_info": {
+          "package_name": "com.peposwings.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCnqbiVu2w3VDcq_qA1ggcLQMImGxVTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410680540370:android:56ba88884c79977de9410b",
+        "android_client_info": {
+          "package_name": "peposwings.com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCnqbiVu2w3VDcq_qA1ggcLQMImGxVTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
